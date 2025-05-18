@@ -1,6 +1,6 @@
 +++
 date = '2025-05-18T12:45:50+05:30'
-draft = true
+draft = false
 title = 'New Beginning'
 +++
 

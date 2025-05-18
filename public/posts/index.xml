@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Xenophanes Musings</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Xenophanes Musings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 May 2025 17:26:56 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Being Pragmatic</title>
+      <link>http://localhost:1313/posts/being-pragmatic/</link>
+      <pubDate>Sat, 17 May 2025 17:26:56 +0530</pubDate>
+      <guid>http://localhost:1313/posts/being-pragmatic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/being-pragmatic/karl_popper.avif&#34; alt=&#34;Karl Popper Photo&#34; title=&#34;Karl Popper&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;&lt;strong&gt;All organisms, from the simplest to the most complex, learn by trial and error. But there is a profound difference in the way this method is applied.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The difference between the amoeba and Einstein is that, although both make use of the method of trial and error elimination, the amoeba dislikes erring while Einstein is intrigued by it. The amoeba, when it makes a mistake, dies or suffers; it has no interest in its errors except to avoid them. Einstein, on the other hand, is fascinated by his mistakes: he consciously searches for them, because he knows that we learn from our errors.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

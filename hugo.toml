@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://samsbp.github.io'
 languageCode = 'en-us'
 title = 'Xenophanes Musings'
 theme = 'whiteplain'

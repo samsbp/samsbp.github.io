@@ -1,0 +1,90 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Xenophanes Musings</title>
+    <description>A minimal hugo theme focus on content</description>
+    <link>http://localhost:1313/</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2025, Calvin Tran</copyright>
+    <lastBuildDate>Sun, 18 May 2025 12:45:50 +0530</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
+    
+    
+    <item>
+      <title>New Beginning</title>
+      <link>http://localhost:1313/posts/new-beginning/</link>
+      <description>&lt;h1 id=&#34;beginning-of-xenophanes-musings&#34;&gt;Beginning of Xenophanes musings&lt;/h1&gt;
+&lt;p&gt;I am restarting my old way of blogging with more quantity, with the right quality efforts. i have decided to move all my writings from my beehiiv newsletter to a personal blogging site.&lt;/p&gt;
+&lt;h2 id=&#34;my-journey-of-writing&#34;&gt;My journey of writing:&lt;/h2&gt;
+&lt;p&gt;Looking back, I started to write from the year 2020 with Hugo static site generator hosted in Netlify. &lt;a href=&#34;https://pwnl0rd.netlify.app/&#34;&gt;https://pwnl0rd.netlify.app/&lt;/a&gt; I was not a consistent writer back then and i used to tinker with computer systems. Now i am a theorist, i think before i do, i ask questions against the assumptions that are held. As a habit, i read books for 30 mins daily and i write connecting between security and the book i read. From late 2023, i consistently started to write one blog post per month. Now, I want to do more. I have decided to write more and write when i want to write.&lt;/p&gt;
+&lt;h2 id=&#34;running-a-newsletter&#34;&gt;Running a newsletter&lt;/h2&gt;
+&lt;p&gt;Writing a newsletter is different from writing a blog. I do not have a good experience with Substack because Substack will block you if anyone reports you as spam. Then i migrated to beehiiv (&lt;a href=&#34;https://ram.beehiiv.com/)&#34;&gt;https://ram.beehiiv.com/)&lt;/a&gt;. Substack had good distribution provided by the platform but was controlled, whereas beehiiv does not have good distribution so i have to distribute by myself. In the newsletter, by default readers think that the writer expects them to subscribe. This makes them judge who am i rather than what i write. I do not care about me at all, who am i. I care about my writings and the expectations to be read by people. I do not want to write for the sake of free subs which does not do any good to me. I want to entirely let go of this newsletter way of blogging and come to a simple blog. If anyone wants to follow my blogs, they could by following the RSS feed and not by force or begging to follow mine cause their time is precious. There are so many writings, blog posts already there. I do not want to create noise. Rather, i will use this blog post to write what all i think and be a better writer rather than a salesman convincing people to subscribe to it. Another reason would be that readers are distracted in the newsletter by popups, fancy pages and it forces me to write in a style which i do not want to do.&lt;/p&gt;
+&lt;p&gt;To run a newsletter, I should either write for a market/readers who are looking for my next post. Personally, i do not want to run a newsletter cause it is noise rather than signal or i need user subscriptions such that in the future they are going to help me by monetizing it.&lt;/p&gt;
+&lt;p&gt;To run a newsletter, you need to write a post per week to keep the users on the hook. i did try weekly reads, a curated list of links in product security. i did it for a few weeks and then the question i had is, should i change my newsletter to weekly reads. That does not quench my satisfaction. I do not want to treat my writings as a newsletter cause i am a blogger.&lt;/p&gt;
+&lt;p&gt;If you could ask me about the best blogs/writings, i would say Irrational Exuberance, Manas J Saloi blogs. These are golden writings and journal-style blogging. I liked journal blogs. It is transparent, honest, no gimmicks of solutioning, it is what it is. I believe most of the newsletters i read in cybersecurity are just solutioning. They do not talk about the problem and how to view the problem firstly. They start to write focusing on solving rather than talking well about the problem. You could ask the question: should you have done blogging instead of a newsletter? I know—to differentiate the way newsletters work and blogging works took time for me to understand. I thought why not blog in a newsletter way and you get a bunch of subscribers. Rather, it made me write what i do not want to write. The dashboard of the newsletter shows the subscription trends, who is reading. This metric is changing the way i write. Rather than focusing on my writing, i just focus on what i could say to convince users to subscribe. Is this what i want? no. Hence i decided to move to blogging site than newsletter.&lt;/p&gt;
+&lt;h2 id=&#34;blog-name-inspiration&#34;&gt;Blog Name Inspiration&lt;/h2&gt;
+&lt;p&gt;Xenophane is a Greek philosopher who was the pioneer of first principle thinking. At the time of religion taking its peak, Xenophane thought about the clouds and rain from a non-religious base. In those times, religion was the answer for anything that is on earth. My blog writings will be based on first principles, questioning the assumptions that the theories are formed from.&lt;/p&gt;
+&lt;p&gt;Xenophanes musings is a blog that captures the thoughts of a Xenophaner (any person who thinks from first principles).&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>http://localhost:1313/posts/new-beginning/</guid>
+      <pubDate>Sun, 18 May 2025 12:45:50 +0530</pubDate>
+    </item>
+    
+    <item>
+      <title>Being Pragmatic</title>
+      <link>http://localhost:1313/posts/being-pragmatic/</link>
+      <description>&lt;p&gt;I was been a pragmatic guy when i started the cybersecurity journey. Pragmatic is doing things practically without any idea or principle behind it.&lt;/p&gt;
+&lt;p&gt;Being pragmatic is just doing and not thinking about how or why we are doing it, or not thinking about the method. A method is important as it shows the way to derive objective knowledge.&lt;/p&gt;
+&lt;h2 id=&#34;knowledge-creation&#34;&gt;Knowledge Creation&lt;/h2&gt;
+&lt;p&gt;To obtain knowledge, there are three ways: inductive reasoning, empirical observation, and scientific method.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;An inductivist relies on their own self experiences and beliefs. They start to view the world from their inductivist lens. Experiences and beliefs presupposes patterns. Seeing the sun rise daily will make you believe that tomorrow the sun rises or it never dies. Relying on your patterns is the blind spot. It is similar to having one eye opened and the remaining eye closed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Empirical observation is observing the real world through our human sensors such as eyes, mouth, ears. We believe what we see, what we speak, and what we hear. The problem with this approach is we never know all the information to decide on what is truth. Whatever we see, we speak, and we hear is just part of the truth. Without knowing the information, taking a decision or standing for what is right or wrong is not a better choice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scientific method is the trial and error elimination. To create a trial, you create hypothesis, and to eliminate error, you have to criticise the current theories and methodologies, and create a better one.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Being pragmatic follows inductive reasoning and empirical observation. Both inductive reasoning and empirical observation does not include error elimination i.e detecting errors and eliminating them by creating a new observation, basically it does not support criticising your own beliefs and trying to attain objective truth.&lt;/p&gt;
+&lt;p&gt;Being pragmatic is to have subjective opinions and it never helps in deriving objective truth.&lt;/p&gt;
+&lt;p&gt;To convert a subjective knowledge to objective knowledge is to form a method out of your subjective experiences and criticise on the latest methods and latest knowledge known. This is the reason why experiences will make you ignorant. For example, if you see security champion program did not work in your previous company, it does not mean that it will never work in other companies. This is a generalisation formed out of experiences and we should beware of those generalisation we make because this is not how world works. In a probability thinking, just because it did not worked once , it does not mean it will not work next time. Only absolute thinkers will generalise because it is easy to do so and caught up in their own judgements thereby not ready to fail again.&lt;/p&gt;
+&lt;p&gt;Being pragmatic is being attached to your experiences and what is right rather than not accepting objective right. It will become a problem as you cannot unlearn or deattach from your experiences. Being pragmatic can make you blind and stuck.&lt;/p&gt;
+&lt;p&gt;Why do we have to choose trial and error elimination over the other 2?&lt;/p&gt;
+&lt;p&gt;One of the major reasons is that by using the scientific method, we criticise the current set of theories and create a new set of theories, thereby advancing the domain or helping the human race to reach the next stage. It is crucial for our survival. For example, Natural selection theory by Charles Darwin refutes all the previous theory, especially Lamarck&amp;rsquo;s theory of evolution and we reach nearer to truth. We never achieve the truth rather we can get nearer to it. We can find ways to find errors and refute. we reach the stage of dogmatism if we think we achieved the truth.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;All organisms, from the simplest to the most complex, learn by trial and error. But there is a profound difference in the way this method is applied.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The difference between the amoeba and Einstein is that, although both make use of the method of trial and error elimination, the amoeba dislikes erring while Einstein is intrigued by it. The amoeba, when it makes a mistake, dies or suffers; it has no interest in its errors except to avoid them. Einstein, on the other hand, is fascinated by his mistakes: he consciously searches for them, because he knows that we learn from our errors.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This conscious critical attitude, this readiness to learn from mistakes, is what distinguishes human knowledge from that of other animals, and it is what makes science possible.&lt;/strong&gt;&amp;rdquo;
+&amp;ndash; Karl Popper&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;dogmatism&#34;&gt;Dogmatism&lt;/h2&gt;
+&lt;p&gt;Relying on old theories because it works for you is dogmatism. Saying that “Gates, blocking, pentest methodology, waterfall testing, security review without a method” works are dogmatic approaches. Those old theories might work, it looks to you that it works. It is similar to war. War works. Winning a war also works practically, but it&amp;rsquo;s not the right method to do so. Hurting the person will eliminate the problem and it works practically, rather than managing the person. Some of the new theories are “iterative testing, Threat Modeling, Supply chain Security” which we start to focus on and start to implement.&lt;/p&gt;
+&lt;h2 id=&#34;future-is-the-past&#34;&gt;Future is the past&lt;/h2&gt;
+&lt;p&gt;Most of the security vendors and influencers start to preach “Future is the past”. A company got breached due to a zero day vulnerability and hence you have to buy this product to protect you from these kinds of vulnerabilities. Security engineers try to convince the leadership to increase the budget/prioritise/invest in security efforts since some company got breached and it might happen to us. The problem with this approach is we never know.&lt;/p&gt;
+&lt;p&gt;Security events are not the way to predict what is going to happen.&lt;/p&gt;
+&lt;p&gt;Future is conjecture - You cannot prove what is going to happen in the future. You cannot predict based on the past data, rather prepare for it.&lt;/p&gt;
+&lt;p&gt;Security folks have to embrace that the future is conjecture, criticize dogmatic theories and advance security domains by forming new theories that refutes problems of old theories.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This blog post inspired from Karl Popper’s book “Objective Knowledge”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://localhost:1313/images/being-pragmatic/karl_popper.avif&#34;
+  alt=&#34;Karl Popper Photo&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>http://localhost:1313/posts/being-pragmatic/</guid>
+      <pubDate>Sat, 17 May 2025 17:26:56 +0530</pubDate>
+    </item>
+    
+  </channel>
+</rss>

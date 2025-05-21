@@ -22,7 +22,7 @@ However, there is a personal cost involved. If putting in more effort significan
 
 In such uncertain situations, choosing less effort might be the smarter choice. This is because it helps protect your well-being, even if it means missing out on a reward.
 
-![Game Theory](/images/types-of-peers/gametheory.png "Game Theory")
+![Game Theory](/Images/types-of-peers/gametheory.png "Game Theory")
 
 The Prisoner’s Dilemma suggests that in competitive and uncertain environments, the rational strategy is often to choose less effort in order to safeguard your own interests. This is especially true when you do not know what the other person will do.
 

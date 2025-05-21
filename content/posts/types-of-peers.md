@@ -50,7 +50,7 @@ Promotions depend on several factors that are outside your control. These includ
 
 ## Avoid Boss Attitudes at All Cost
 
-Among all the types of behavior discussed above, boss attitudes—whether from boss pleasers or “be the boss” types—cause the most damage. These attitudes create toxic environments where others struggle to contribute and grow. The damage becomes even more severe when such behaviors are found in managers or architects. These roles require a high level of collaboration with individual contributors.
+Among all the types of behavior discussed above, boss attitudes whether from boss pleasers or “be the boss” types cause the most damage. These attitudes create toxic environments where others struggle to contribute and grow. The damage becomes even more severe when such behaviors are found in managers or architects. These roles require a high level of collaboration with individual contributors.
 
 People with boss attitudes often believe they are not the problem. It is like a tyrant who convinces themselves that they are acting in the best interest of others, when in reality, they are simply trying to stay in control.
 

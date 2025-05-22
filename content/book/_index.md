@@ -1,6 +1,6 @@
 +++
 date = '2025-05-22T20:59:17+05:30'
-draft = true
+draft = false
 title = 'Book I Read'
 +++
 

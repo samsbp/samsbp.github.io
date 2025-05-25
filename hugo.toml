@@ -8,14 +8,17 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "A minimal hugo theme focus on content"
-  author = 'Calvin Tran'
+  description = "XenoPhanes Musings - Thinking from First Principles"
   items = 10
 
   [params.comments]
     enabled = true
     githubRepo = 'canhtran/maverick'
     theme = 'github-light'
+
+  [params.author]
+    email = 'samsbp18@gmail.com'
+    name = 'Sam Benjamin Pragasam'
 
 
 [menu]
@@ -58,7 +61,8 @@ theme = 'maverick'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-  section = ["HTML"]
+  section = ["HTML", "RSS", "JSON"]
+  pages = ["HTML", "RSS", "JSON"]
 
 [outputFormats.RSS]
   mediatype = "application/rss"
@@ -69,3 +73,5 @@ theme = 'maverick'
   baseName = "feed"
 
 ignoreErrors = ["error-remote-getjson"]
+
+copyright = '© Sam Benjamin Pragasam'

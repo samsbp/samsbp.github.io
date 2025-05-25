@@ -12,3 +12,6 @@ This blog is my little corner of the internet ✍️ where I share my experience
 
 Let’s connect: x.com/pwnl0rd 🧑‍💻
 
+# Talks
+
+ Jan 2023 - [Semgrep - Developer-friendly SAST in DevOps Pipeline in API Security Meetup Banglore, India](https://www.slideshare.net/slideshow/developerfriendly-sast-in-devops-pipelinepptx/255569485)

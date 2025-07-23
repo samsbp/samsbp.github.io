@@ -19,6 +19,10 @@ theme = 'maverick'
   [params.author]
     email = 'samsbp18@gmail.com'
     name = 'Sam Benjamin Pragasam'
+  
+  [params.social]
+    title = "rss"
+    link = "https://samsbp.github.io/posts/atom.xml"
 
 
 [menu]
@@ -36,6 +40,11 @@ theme = 'maverick'
     identifier = "book"
     name = "Book"
     url = "/book/"
+    weight = -200
+  [[menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
     weight = -200
 
 [markup]

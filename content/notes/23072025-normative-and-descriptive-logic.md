@@ -19,7 +19,7 @@ In Cognitive Science, humans think in terms of descriptive logic. They cannot un
 
 Security is often coarse-grained solutions rather than fine-grained solutions. I cannot apply the rule of VPN to misconfigured instances only; rather, apply it as a whole. Do I have all the knowledge of what they are going to deploy? Obviously no, I am not God. Or else have a golden pathway to deploy selective instances, then I could control (fine-grain) the misconfigurations. I choose to allow what misconfigurations should be there rather than allowing all.
 
-Rather than giving normative advice or solutions — most of them do not work, not bulletproof — change the premises of normative logic to have more context and be fine-grained rather than more generalized. The more the generalized solution, the more it does not work.
+Rather than giving normative advice or solutions — most of them do not work, not bulletproof rather change the premises of normative logic to have more context and be fine-grained rather than more generalized. The more the generalized solution, the more it does not work.
 
 ## Reference
 

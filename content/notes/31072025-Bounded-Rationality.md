@@ -3,6 +3,7 @@ date = '2025-07-31T08:29:49+05:30'
 draft = false
 title = '31072025 - Bounded Rationality'
 +++
+You go to a store where you planned to buy your grocery needs, 1kg bag of white rice. As you gaze at the store for the product, you found the product and sometimes, in a hurry, you will take whatever there is, not look and search for options. Checkout for buying it. This is what bounded rationality is.
 
 We are always working on constrained resources. Be it time, people, knowledge. It's bounded. The outcomes are heavily dependent on the use of the resources and which has to be prioritised for the outcome. If you want some rice, you can take whatever you want and do not look for options because the effort is not worth the price you are going to save. Now for a car, you are going to consider a lot of options than a rice bag, plan for it. You will plan for the money, try to obtain the knowledge needed or outsource the knowledge using a mechanic. For a project you want to deliver, you have to plan/strategize based on the outcome.
 

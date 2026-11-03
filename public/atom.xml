@@ -2,12 +2,12 @@
   <channel>
     
     <title>Xenophanes Musings</title>
-    <description>A minimal hugo theme focus on content</description>
+    <description>XenoPhanes Musings - Thinking from First Principles</description>
     <link>http://localhost:1313/</link>
     
     <language>en</language>
-    <copyright>Copyright 2025, Calvin Tran</copyright>
-    <lastBuildDate>Wed, 21 May 2025 10:40:33 +0530</lastBuildDate>
+    <copyright>Copyright 2026, Calvin Tran</copyright>
+    <lastBuildDate>Tue, 03 Nov 2026 17:45:10 +0530</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
@@ -26,7 +26,7 @@
 &lt;p&gt;However, there is a personal cost involved. If putting in more effort significantly affects your work-life balance, you must ask yourself: is the potential reward worth it? Should you prioritize work or life?&lt;/p&gt;
 &lt;p&gt;In such uncertain situations, choosing less effort might be the smarter choice. This is because it helps protect your well-being, even if it means missing out on a reward.&lt;/p&gt;
 &lt;p&gt;&lt;img
-  src=&#34;http://localhost:1313/images/types-of-peers/gametheory.png&#34;
+  src=&#34;http://localhost:1313/Images/types-of-peers/gametheory.png&#34;
   alt=&#34;Game Theory&#34;
   loading=&#34;lazy&#34;
   decoding=&#34;async&#34;
@@ -47,7 +47,7 @@
 &lt;p&gt;Ownership is a great quality. However, it does not mean you have to own everything alone. Healthy teams share ownership. If you try to own too much and expect promotions every year because of that, it may not work out as expected.&lt;/p&gt;
 &lt;p&gt;Promotions depend on several factors that are outside your control. These include the availability of the next level, budget allocations, the financial health of the company, and your manager’s perception and confidence in you. Understanding these factors helps you set realistic expectations.&lt;/p&gt;
 &lt;h2 id=&#34;avoid-boss-attitudes-at-all-cost&#34;&gt;Avoid Boss Attitudes at All Cost&lt;/h2&gt;
-&lt;p&gt;Among all the types of behavior discussed above, boss attitudes—whether from boss pleasers or “be the boss” types—cause the most damage. These attitudes create toxic environments where others struggle to contribute and grow. The damage becomes even more severe when such behaviors are found in managers or architects. These roles require a high level of collaboration with individual contributors.&lt;/p&gt;
+&lt;p&gt;Among all the types of behavior discussed above, boss attitudes whether from boss pleasers or “be the boss” types cause the most damage. These attitudes create toxic environments where others struggle to contribute and grow. The damage becomes even more severe when such behaviors are found in managers or architects. These roles require a high level of collaboration with individual contributors.&lt;/p&gt;
 &lt;p&gt;People with boss attitudes often believe they are not the problem. It is like a tyrant who convinces themselves that they are acting in the best interest of others, when in reality, they are simply trying to stay in control.&lt;/p&gt;
 &lt;h2 id=&#34;how-to-be-a-good-engineer&#34;&gt;How to Be a Good Engineer&lt;/h2&gt;
 &lt;ol&gt;
@@ -60,7 +60,7 @@
 &lt;li&gt;Avoid boss attitudes. Accept feedback from less experienced engineers and genuinely listen. Don’t assume your way is always the right way. Allow failure and learning to happen. Avoid being so overprotective of your division that it creates fear in others.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-      <author>Calvin Tran</author>
+      <author>map[email:samsbp18@gmail.com name:Sam Benjamin Pragasam]</author>
       <guid>http://localhost:1313/posts/types-of-peers/</guid>
       <pubDate>Wed, 21 May 2025 10:40:33 +0530</pubDate>
     </item>
@@ -73,7 +73,7 @@
 &lt;h2 id=&#34;my-journey-of-writing&#34;&gt;My journey of writing:&lt;/h2&gt;
 &lt;p&gt;Looking back, I started to write from the year 2020 with Hugo static site generator hosted in Netlify. &lt;a href=&#34;https://pwnl0rd.netlify.app/&#34;&gt;https://pwnl0rd.netlify.app/&lt;/a&gt; I was not a consistent writer back then and i used to tinker with computer systems. Now i am a theorist, i think before i do, i ask questions against the assumptions that are held. As a habit, i read books for 30 mins daily and i write connecting between security and the book i read. From late 2023, i consistently started to write one blog post per month. Now, I want to do more. I have decided to write more and write when i want to write.&lt;/p&gt;
 &lt;h2 id=&#34;running-a-newsletter&#34;&gt;Running a newsletter&lt;/h2&gt;
-&lt;p&gt;Writing a newsletter is different from writing a blog. I do not have a good experience with Substack because Substack will block you if anyone reports you as spam. Then i migrated to beehiiv (&lt;a href=&#34;https://ram.beehiiv.com/)&#34;&gt;https://ram.beehiiv.com/)&lt;/a&gt;. Substack had good distribution provided by the platform but was controlled, whereas beehiiv does not have good distribution so i have to distribute by myself. In the newsletter, by default readers think that the writer expects them to subscribe. This makes them judge who am i rather than what i write. I do not care about me at all, who am i. I care about my writings and the expectations to be read by people. I do not want to write for the sake of free subs which does not do any good to me. I want to entirely let go of this newsletter way of blogging and come to a simple blog. If anyone wants to follow my blogs, they could by following the RSS feed and not by force or begging to follow mine cause their time is precious. There are so many writings, blog posts already there. I do not want to create noise. Rather, i will use this blog post to write what all i think and be a better writer rather than a salesman convincing people to subscribe to it. Another reason would be that readers are distracted in the newsletter by popups, fancy pages and it forces me to write in a style which i do not want to do.&lt;/p&gt;
+&lt;p&gt;Writing a newsletter is different from writing a blog. I do not have a good experience with Substack because Substack will block you if anyone reports you as spam. Then i migrated to beehiiv (&lt;a href=&#34;https://ram.beehiiv.com/&#34;&gt;https://ram.beehiiv.com/&lt;/a&gt;). Substack had good distribution provided by the platform but was controlled, whereas beehiiv does not have good distribution so i have to distribute by myself. In the newsletter, by default readers think that the writer expects them to subscribe. This makes them judge who am i rather than what i write. I do not care about me at all, who am i. I care about my writings and the expectations to be read by people. I do not want to write for the sake of free subs which does not do any good to me. I want to entirely let go of this newsletter way of blogging and come to a simple blog. If anyone wants to follow my blogs, they could by following the RSS feed and not by force or begging to follow mine cause their time is precious. There are so many writings, blog posts already there. I do not want to create noise. Rather, i will use this blog post to write what all i think and be a better writer rather than a salesman convincing people to subscribe to it. Another reason would be that readers are distracted in the newsletter by popups, fancy pages and it forces me to write in a style which i do not want to do.&lt;/p&gt;
 &lt;p&gt;To run a newsletter, I should either write for a market/readers who are looking for my next post. Personally, i do not want to run a newsletter cause it is noise rather than signal or i need user subscriptions such that in the future they are going to help me by monetizing it.&lt;/p&gt;
 &lt;p&gt;To run a newsletter, you need to write a post per week to keep the users on the hook. i did try weekly reads, a curated list of links in product security. i did it for a few weeks and then the question i had is, should i change my newsletter to weekly reads. That does not quench my satisfaction. I do not want to treat my writings as a newsletter cause i am a blogger.&lt;/p&gt;
 &lt;p&gt;If you could ask me about the best blogs/writings, i would say Irrational Exuberance, Manas J Saloi blogs. These are golden writings and journal-style blogging. I liked journal blogs. It is transparent, honest, no gimmicks of solutioning, it is what it is. I believe most of the newsletters i read in cybersecurity are just solutioning. They do not talk about the problem and how to view the problem firstly. They start to write focusing on solving rather than talking well about the problem. You could ask the question: should you have done blogging instead of a newsletter? I know—to differentiate the way newsletters work and blogging works took time for me to understand. I thought why not blog in a newsletter way and you get a bunch of subscribers. Rather, it made me write what i do not want to write. The dashboard of the newsletter shows the subscription trends, who is reading. This metric is changing the way i write. Rather than focusing on my writing, i just focus on what i could say to convince users to subscribe. Is this what i want? no. Hence i decided to move to blogging site than newsletter.&lt;/p&gt;
@@ -81,7 +81,7 @@
 &lt;p&gt;Xenophane is a Greek philosopher who was the pioneer of first principle thinking. At the time of religion taking its peak, Xenophane thought about the clouds and rain from a non-religious base. In those times, religion was the answer for anything that is on earth. My blog writings will be based on first principles, questioning the assumptions that the theories are formed from.&lt;/p&gt;
 &lt;p&gt;Xenophanes musings is a blog that captures the thoughts of a Xenophaner (any person who thinks from first principles).&lt;/p&gt;
 </description>
-      <author>Calvin Tran</author>
+      <author>map[email:samsbp18@gmail.com name:Sam Benjamin Pragasam]</author>
       <guid>http://localhost:1313/posts/new-beginning/</guid>
       <pubDate>Sun, 18 May 2025 12:45:50 +0530</pubDate>
     </item>
@@ -114,7 +114,8 @@
 &lt;p&gt;&amp;ldquo;&lt;strong&gt;All organisms, from the simplest to the most complex, learn by trial and error. But there is a profound difference in the way this method is applied.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The difference between the amoeba and Einstein is that, although both make use of the method of trial and error elimination, the amoeba dislikes erring while Einstein is intrigued by it. The amoeba, when it makes a mistake, dies or suffers; it has no interest in its errors except to avoid them. Einstein, on the other hand, is fascinated by his mistakes: he consciously searches for them, because he knows that we learn from our errors.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This conscious critical attitude, this readiness to learn from mistakes, is what distinguishes human knowledge from that of other animals, and it is what makes science possible.&lt;/strong&gt;&amp;rdquo;
-&amp;ndash; Karl Popper&lt;/p&gt;&lt;/blockquote&gt;
+&amp;ndash; Karl Popper&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;dogmatism&#34;&gt;Dogmatism&lt;/h2&gt;
 &lt;p&gt;Relying on old theories because it works for you is dogmatism. Saying that “Gates, blocking, pentest methodology, waterfall testing, security review without a method” works are dogmatic approaches. Those old theories might work, it looks to you that it works. It is similar to war. War works. Winning a war also works practically, but it&amp;rsquo;s not the right method to do so. Hurting the person will eliminate the problem and it works practically, rather than managing the person. Some of the new theories are “iterative testing, Threat Modeling, Supply chain Security” which we start to focus on and start to implement.&lt;/p&gt;
 &lt;h2 id=&#34;future-is-the-past&#34;&gt;Future is the past&lt;/h2&gt;
@@ -133,7 +134,7 @@
 
 &lt;/p&gt;
 </description>
-      <author>Calvin Tran</author>
+      <author>map[email:samsbp18@gmail.com name:Sam Benjamin Pragasam]</author>
       <guid>http://localhost:1313/posts/being-pragmatic/</guid>
       <pubDate>Sat, 17 May 2025 17:26:56 +0530</pubDate>
     </item>

@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/notes/03112026-security-is-dead/</loc>
-    <lastmod>2026-11-03T17:45:10+05:30</lastmod>
+    <loc>http://localhost:1313/notes/10112026-grief/</loc>
+    <lastmod>2026-11-10T00:54:55+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2026-11-03T17:45:10+05:30</lastmod>
+    <lastmod>2026-11-10T00:54:55+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-10T00:54:55+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/03112026-security-is-dead/</loc>
     <lastmod>2026-11-03T17:45:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/31072025-bounded-rationality/</loc>

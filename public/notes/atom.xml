@@ -14,9 +14,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 03 Nov 2026 17:45:10 +0530</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 00:54:55 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/notes/atom.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>10112026 Grief</title>
+				<link>http://localhost:1313/notes/10112026-grief/</link>
+				<pubDate>Tue, 10 Nov 2026 00:54:55 +0530</pubDate><author>samsbp18@gmail.com (Sam Benjamin Pragasam)</author>
+				<guid>http://localhost:1313/notes/10112026-grief/</guid>
+				<description>&lt;p&gt;It is such a good wave that it is hard and pulls you back to the sea, and you do not want to get drowned. You feel you are just breathing, and your body is heavy and filled with ocean waters. There are waves of thoughts that make you grieve about someone. But during the waves of thought, struggling, you can replenish and smile at the waves of thought that are not going to stop. It is going to be there for all griefs.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>03112026 - Software Security Is Dead</title>
 				<link>http://localhost:1313/notes/03112026-security-is-dead/</link>
